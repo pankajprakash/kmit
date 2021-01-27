@@ -1,0 +1,129 @@
+body{
+    
+        font-family: 'Raleway', sans-serif !important;
+        font-size: 14px;
+    
+}
+
+.back
+{
+    background-image: url(/images/banner_back.jpg);
+    background-size: 100% 100%;
+    height:600px;
+}
+
+
+h1{
+    padding: 60px 70px;
+}
+
+
+
+.typew{
+    max-width: 100%;
+    font-size: 14px;
+    color: #fff;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-top: -33px;
+    margin-bottom: 50px;
+    padding-left: 71px;
+    
+}
+
+.h4{
+   margin-top: -20px;
+   margin-left: 71px;
+   color: yellow;
+}
+
+.right
+{
+    margin-top: -100px;
+    margin-right: -100px;
+    padding: 100px 30px 10px;
+    
+}
+
+
+.tech
+{
+    font-size: 36px;
+    color: #3c3c3c;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 0px !important;
+    margin-top: 20px
+}
+
+.section_title h2 {
+    font-size: 38px;
+    letter-spacing: 3px;
+    color: #3c3c3c;
+    padding-left: 19px;
+    padding-top: 35px;
+    font-weight: 400;
+}
+
+.section_title h3 {
+    font-size: 28px;
+    color: #3c3c3c;
+    letter-spacing: 2px;
+    font-weight: 400;
+    margin-left: 20px;
+    margin-top: 11px;
+    font-weight: 400;
+}
+
+
+.heading_small_border h4 {
+    color: #27c5ff;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+
+
+
+
+.right_p p
+{
+
+        font-size: 14px;
+        color: #3c3c3c;
+        font-weight: 400;
+        line-height: 25px;
+        margin-top: 25px;
+        letter-spacing: 1px;
+}
+
+.featured_services_left p {
+    font-size: 14px;
+    color: #3c3c3c;
+    font-weight: 400;
+    line-height: 25px;
+    padding-top: 100px;
+    letter-spacing: 1px;
+    padding-top: 51px;
+    padding-bottom: -30px;
+}
+
+
+
+.team_left p {
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 25px;
+    letter-spacing: 1px;
+    padding-top: 13px;
+}
+
+.team_left{
+    background-image: url(/images/team_back.jpg);
+}
+
+
+
+
